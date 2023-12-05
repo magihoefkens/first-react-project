@@ -1,0 +1,17 @@
+h1{
+    color: brown;
+}
+.listItemHaar{
+    background-color: blue;
+}
+.listItemStiefel{
+    background-color: red;
+}
+.listItemWarten{
+    background-color: green;
+}
+.round{
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 5px;
+}
